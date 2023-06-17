@@ -8,20 +8,11 @@ export default function Home() {
   return (
     <>
     
-    <Image className='fixed inset-0 w-full h-full z-[-1] bg-no-repeat bg-cover' src={BackGroundImage} alt='My Image'></Image>
+    <Image className='fixed inset-0 w-full h-full z-[-1] bg-no-repeat bg-cover' src={BackGroundImage} alt='My Image' />
     <div className='bg-[#F5F5F5] rounded-md mx-16 my-4 ' >
     <Navbar />
     <Main />
-    <Main />
-    <Main />
-    <Main />
-    <Main />
-    <Main />
-    <Main />
-    <Main />
-    <Main />
-    <Main />
-    <Main />
+   
     
     </div>
     
